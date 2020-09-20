@@ -1,0 +1,7 @@
+
+(Se realizan despues de crear Entidades o modificarlas)
+Añadir migracion desde la carpeta Infrastructure:
+dotnet ef migrations add NombreDeMigracion --startup-project ..\LuxControl.WebAPI  
+
+Actualizar base de datos con las migraciones hechas desde la carpeta Infrastructure:
+dotnet ef database update --startup-project ..\LuxControl.WebAPI                                            

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "rVh41oiIeF5UstSlj+5su6Dint5zyF2fjOSvAvidIMETTxwUSNKpNMMcEhNKdPanYD0/V/wayH5/mFWuoTlOgA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jhzz0\\Escritorio\\luxcontrol_core_mysql\\src\\backend\\LuxControl.Core\\LuxControl.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jhzz0\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\jhzz0\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\jhzz0\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
