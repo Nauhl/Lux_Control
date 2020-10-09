@@ -1,5 +1,6 @@
 # Lux_Control
 
+PROYECTO C# (esta parte del proyecto esta hecha solo con C# y se realizan API's modelos y controladores de la app).
 
 Va que va amigos
 
